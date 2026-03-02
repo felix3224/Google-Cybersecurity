@@ -17,7 +17,7 @@ a necessidade de avaliar e fortalecer sua postura de segurança.</h3>
 
 <h1>🔍 Principais Descobertas</h1>
 <h2>Pontos Críticos Identificados</h2>
-<h3>Pontos Críticos Identificados
+<h3>
 Categoria	            Status	  Observações
 Least Privilege	        ❌      Não implementado	Todos funcionários têm acesso a dados internos
 Disaster Recovery Plans	❌      Não existente	Sem backups de dados críticos
