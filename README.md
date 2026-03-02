@@ -16,16 +16,52 @@ a necessidade de avaliar e fortalecer sua postura de segurança.</h3>
 - Continuidade dos negócios</h3>
 
 <h1>🔍 Principais Descobertas</h1>
-<h2>Pontos Críticos Identificados</h2>
 
-<h3>Categoria	            Status	  Observações</h3>
-<h3>Least Privilege	        ❌      Não implementado	Todos funcionários têm acesso a dados internos</h3>
-<h3>Disaster Recovery Plans	❌      Não existente	Sem backups de dados críticos</h3>
-<h3>Password Policies	      ⚠️      Insuficiente	Requisitos mínimos não atendem padrões atuais</h3>
-<h3>IDS/IPS	                ❌      Não instalado	Sem sistema de detecção de intrusão</h3>
-<h3>Firewall	              ✅      Implementado	Regras de segurança definidas</h3>
-<h3>Antivirus	              ✅      Implementado	Monitoramento regular</h3>
-📈 Score de Risco: 8/10 (Alto)
+<h2>⚠️ Pontos Críticos Identificados</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Categoria</th>
+      <th>Status</th>
+      <th>Observações</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Least Privilege</strong></td>
+      <td>❌ <strong>Não implementado</strong></td>
+      <td>Todos funcionários têm acesso a dados internos</td>
+    </tr>
+    <tr>
+      <td><strong>Disaster Recovery Plans</strong></td>
+      <td>❌ <strong>Não existente</strong></td>
+      <td>Sem backups de dados críticos</td>
+    </tr>
+    <tr>
+      <td><strong>Password Policies</strong></td>
+      <td>⚠️ <strong>Insuficiente</strong></td>
+      <td>Requisitos mínimos não atendem padrões atuais</td>
+    </tr>
+    <tr>
+      <td><strong>IDS/IPS</strong></td>
+      <td>❌ <strong>Não instalado</strong></td>
+      <td>Sem sistema de detecção de intrusão</td>
+    </tr>
+    <tr>
+      <td><strong>Firewall</strong></td>
+      <td>✅ <strong>Implementado</strong></td>
+      <td>Regras de segurança definidas</td>
+    </tr>
+    <tr>
+      <td><strong>Antivirus</strong></td>
+      <td>✅ <strong>Implementado</strong></td>
+      <td>Monitoramento regular</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>📈 Score de Risco: <strong style="color: red;">8/10 (Alto)</strong></h3>
 
 <h1> 🛠️ Metodologia </h1>
 <h3>A auditoria foi conduzida seguindo o NIST Cybersecurity Framework (CSF), especificamente a função "Identify" (Identificar), que envolve:
