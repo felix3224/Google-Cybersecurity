@@ -17,16 +17,15 @@ a necessidade de avaliar e fortalecer sua postura de segurança.</h3>
 
 <h1>🔍 Principais Descobertas</h1>
 <h2>Pontos Críticos Identificados</h2>
-<h3>
-Categoria	            Status	  Observações
-Least Privilege	        ❌      Não implementado	Todos funcionários têm acesso a dados internos
-Disaster Recovery Plans	❌      Não existente	Sem backups de dados críticos
-Password Policies	      ⚠️      Insuficiente	Requisitos mínimos não atendem padrões atuais
-Encryption              ❌      Não utilizado	Dados de cartão de crédito sem criptografia
-IDS/IPS	                ❌      Não instalado	Sem sistema de detecção de intrusão
-Firewall	              ✅      Implementado	Regras de segurança definidas
-Antivirus	              ✅      Implementado	Monitoramento regular
-📈 Score de Risco: 8/10 (Alto)</h3>
+
+<h3>Categoria	            Status	  Observações</h3>
+<h3>Least Privilege	        ❌      Não implementado	Todos funcionários têm acesso a dados internos</h3>
+<h3>Disaster Recovery Plans	❌      Não existente	Sem backups de dados críticos</h3>
+<h3>Password Policies	      ⚠️      Insuficiente	Requisitos mínimos não atendem padrões atuais</h3>
+<h3>IDS/IPS	                ❌      Não instalado	Sem sistema de detecção de intrusão</h3>
+<h3>Firewall	              ✅      Implementado	Regras de segurança definidas</h3>
+<h3>Antivirus	              ✅      Implementado	Monitoramento regular</h3>
+📈 Score de Risco: 8/10 (Alto)
 
 <h1> 🛠️ Metodologia </h1>
 <h3>A auditoria foi conduzida seguindo o NIST Cybersecurity Framework (CSF), especificamente a função "Identify" (Identificar), que envolve:
@@ -38,3 +37,5 @@ Antivirus	              ✅      Implementado	Monitoramento regular
 - Análise de impacto nos negócios
 
 - Revisão de controles existentes</h3>
+
+
